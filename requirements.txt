@@ -1,0 +1,14 @@
+# Week 1: Foundations
+pydantic>=2.0
+
+# Week 2: Deep Learning
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
+
+# Week 3 & 4: LLM & Tools
+langchain
+langchain-openai
+yfinance
+python-dotenv
