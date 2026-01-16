@@ -179,3 +179,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+4 Month Plan.md
+Path Prompts.md
+Week 1 - Notes.md
+.vscode/settings.json
