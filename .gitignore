@@ -183,3 +183,4 @@ cython_debug/
 Path Prompts.md
 Week 1 - Notes.md
 .vscode/settings.json
+*.md
